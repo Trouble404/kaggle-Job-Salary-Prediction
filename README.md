@@ -9,7 +9,7 @@ Aim of this project:
 
 # Step 1: data_cleanning
 
-fill NaN and transofom strings to integer vector
+fill NaN and transofom strings to integer vector. At the sametime, update location information by mathching LocationTree.
 
 orginal data format: 
 ![image](https://raw.githubusercontent.com/Trouble404/kaggle-Job-Salary-Prediction/master/readme_pic/word.PNG)
