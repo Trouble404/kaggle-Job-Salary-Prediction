@@ -15,6 +15,7 @@ orginal data format:
 ![image](https://raw.githubusercontent.com/Trouble404/kaggle-Job-Salary-Prediction/master/readme_pic/word.PNG)
 
 after [step 1](https://github.com/Trouble404/kaggle-Job-Salary-Prediction/blob/master/job-salary-datacleaning.ipynb)
+
 ![image](https://raw.githubusercontent.com/Trouble404/kaggle-Job-Salary-Prediction/master/readme_pic/wordtovec.PNG)
 
 # Step 2: Train model
