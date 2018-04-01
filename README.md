@@ -18,6 +18,8 @@ after [step 1](https://github.com/Trouble404/kaggle-Job-Salary-Prediction/blob/m
 
 ![image](https://raw.githubusercontent.com/Trouble404/kaggle-Job-Salary-Prediction/master/readme_pic/wordtovec.PNG)
 
+Processed data can be downloaded at link：https://pan.baidu.com/s/1azqxNeEllpjnuoXLKja_vQ pin：w7u3
+
 # Step 2: Train model
 
 transfrom vector to one-hot vector and using Embedding or HashingVectorizer to process data in FullDescribtuion
