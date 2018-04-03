@@ -7,7 +7,7 @@ Aim of this project:
 *    Using different method to predict
 *    Comprasion
 
-# Step 1: data_cleanning
+# Step 1: data_cleanning - fixed -> reduce the dimention of input data
 
 fill NaN and transofom strings to integer vector. At the sametime, update location information by mathching LocationTree.
 
