@@ -24,6 +24,6 @@ Processed data can be downloaded at link：https://pan.baidu.com/s/1DrLCkmjK4Gxd
 
 transfrom vector to one-hot vector and using Embedding or HashingVectorizer to process data in FullDescription
 
-# Step 2: Train model
+# Step 3: Train model
 
 try to use data without fulldescription right now, meet overfitting. Perpare to pre-processing salay data first.
