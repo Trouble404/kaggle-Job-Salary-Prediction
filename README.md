@@ -20,6 +20,10 @@ after [step 1](https://github.com/Trouble404/kaggle-Job-Salary-Prediction/blob/m
 
 Processed data can be downloaded at link：https://pan.baidu.com/s/1DrLCkmjK4GxdOsHHnDpEZw pin：8nk1
 
+# Step 2: Genreate one-hot vector
+
+transfrom vector to one-hot vector and using Embedding or HashingVectorizer to process data in FullDescription
+
 # Step 2: Train model
 
-transfrom vector to one-hot vector and using Embedding or HashingVectorizer to process data in FullDescribtuion
+try to use data without fulldescription right now, meet overfitting. Perpare to pre-processing salay data first.
